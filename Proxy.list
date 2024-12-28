@@ -5,6 +5,7 @@ IP-CIDR,104.236.69.0/24,no-resolve
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,byr.pt
+DOMAIN-KEYWORD,iyf.tv
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
